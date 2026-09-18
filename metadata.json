@@ -1,0 +1,8 @@
+{
+  "name": "Remix WINDOWS VRChat OSC Chatbox Hub DEV",
+  "description": "Streamline your Windows workflow by automating repetitive tasks and system processes with ease.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
