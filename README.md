@@ -93,5 +93,12 @@ To make the hub start automatically whenever you boot your Windows PC:
 
 ---
 
-## 📄 License
-MIT License. Crafted with care for the VRChat community.
+## 📜 License
+
+This project is licensed under the **GNU General Public License v3.0 (GNU GPLv3)**.
+
+- **Free Use & Distribution:** Anyone can use, modify, and distribute this software free of charge.
+- **Copyleft / Open Source Requirement:** All modifications or derivative works must also be published as open-source under the **GNU GPLv3**.
+- **Transparency:** Closed-source commercialization without releasing the source code is strictly prohibited.
+
+See the [LICENSE](./LICENSE) file for the full license text. Built with ❤️ for the VRChat community.
